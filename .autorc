@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Samarth-8836",
+  "repo": "container-n202oau",
+  "name": "Samarth-8836",
+  "email": "psamarth8836@gmail.com",
+}
